@@ -1,0 +1,14 @@
+{
+  "name": "chemscraper.js",
+  "version": "0.0.0",
+  "description": "Scrape element data off Wikipedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Selzer <aselzer3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "wikiscraper.js": "https://github.com/AlexanderSelzer/wikiscraper.js/tarball/master"
+  }
+}
